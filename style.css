@@ -1,0 +1,8 @@
+.a:hover{color:black;background-image: url(images\ \(3\).jpg);background-size: cover;background-position:center;height: 100vh; border: 2px solid rgb(0, 255, 255);font-size: 20px;}
+.b:hover{color: white;background-color:black;font-size: 45px;border: 3px solid  rgb(111, 168, 111);}
+ .c:hover{color: rgb(255, 255, 255);background-image: url(images\ \(4\).jpg);font-size:60px;border: 2px solid black;}
+ .d:hover{image-rendering: optimizeQuality;}
+h1{color: blue;background-color: rgb(244, 248, 248);text-align: center;font-size:60px;border: 3px solid #2b5502;}
+h2{color: wheat;background-color:rgb(51, 167, 167);border: 2px solid rgb(23, 6, 63);font-size: 45px;text-align: center;}
+p{color: white;background-color: rgb(66, 17, 17);font-size: 20px;}
+h3{color: brown;background-color: rgb(92, 226, 226);font-size:45px;border: 3px solid rgb(43, 85, 2);}
